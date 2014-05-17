@@ -1,0 +1,15 @@
+*.log
+*.pot
+*.pyc
+dev.db
+local_settings.py
+
+/static/*
+node_modules
+components
+public/css/*
+public/js/*
+
+tags
+PYSMELL*
+
